@@ -1,2 +1,2 @@
 # TarefaGit
-Tarefa do módulo de GitHub da EBAC
+Tarefa do módulo de GitHub da EBAC, em andamento.
