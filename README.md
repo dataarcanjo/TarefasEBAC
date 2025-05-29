@@ -1,2 +1,2 @@
 # TarefaGit
-Tarefa do módulo de GitHub da EBAC, em andamento.
+Tarefa do módulo de GitHub da EBAC finalizada com o Olá 'nome'
