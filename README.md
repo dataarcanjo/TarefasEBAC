@@ -1,2 +1,7 @@
-# TarefaGit
-Tarefa do módulo de GitHub da EBAC finalizada com o Olá 'nome'
+# Tarefas EBAC
+Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
+
+## Repostas entregues
+
+- Versionamento de código;
+- Conceitos básicos e lógica de programação;
