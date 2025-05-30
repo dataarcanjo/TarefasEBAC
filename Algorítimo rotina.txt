@@ -1,0 +1,11 @@
+1- Acordar;
+2- Levantar da cama;
+3- Preparar o café da manhã;
+4- Estudar programação;
+5- Realizar afazeres domésticos;
+6- Almoçar;
+7- Lavar a louça;
+8- Jogar;
+9- Jantar;
+10- Dormir;
+11- Repetir o processo;
