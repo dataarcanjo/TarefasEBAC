@@ -7,3 +7,4 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Conceitos básicos e lógica de programação;
 - Classes, JavaDOC e Modificadores de acesso;
 - Variávies, tipos e operadores;
+- Tipos complexos, boxing (autoboxing), unboxing e casting;
