@@ -10,3 +10,4 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Tipos complexos, boxing (autoboxing), unboxing e casting;
 - Controle de fluxos;
 - Coleções 1 e 2;
+- Interfaces, heranças, composição e agregação;
