@@ -1,6 +1,10 @@
 # Tarefas EBAC
 Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 
+## Projetos entrgues
+
+- Projeto 1: Página de cadastro de usuários CRUDE Swing;
+
 ## Repostas entregues
 
 - Versionamento de código;
