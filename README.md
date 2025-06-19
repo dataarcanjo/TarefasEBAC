@@ -15,3 +15,4 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Controle de fluxos;
 - Coleções 1 e 2;
 - Interfaces, heranças, composição e agregação;
+- Padrões de Projeto 1
