@@ -17,3 +17,4 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Interfaces, heranças, composição e agregação;
 - Padrões de Projeto 1
 - Generic
+- Java Annotation
