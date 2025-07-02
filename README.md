@@ -18,3 +18,4 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Padrões de Projeto 1
 - Generic
 - Java Annotation
+- Java Reflections
