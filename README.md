@@ -20,4 +20,5 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Java Annotation
 - Java Reflections
 - Stream
-- Testes (JUnit) Parte 1
+- Testes Parte 1: Unitários e cobertura 
+- TEstes Parte 2: Test Driven Development (TDD) e Mock
