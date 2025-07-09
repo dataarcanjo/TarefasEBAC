@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Tarefa_Streams</name>
+	<name>Tarefa_TestesPart1</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1752024801805</id>
+			<id>1752024801808</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
