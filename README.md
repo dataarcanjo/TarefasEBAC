@@ -4,6 +4,7 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 ## Projetos entrgues
 
 - Projeto 1: Página de cadastro de usuários CRUDE Swing;
+- Projeto 2: BackEnd de Database de usuários CRUDE com implementação de Generics e testes automatizados;
 
 ## Repostas entregues
 
