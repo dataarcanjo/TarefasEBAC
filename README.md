@@ -5,6 +5,7 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 
 - Projeto 1: Página de cadastro de usuários CRUDE Swing;
 - Projeto 2: BackEnd de Database de usuários CRUDE com implementação de Generics e testes automatizados;
+- Projeto 3: Crude integrado à database SQL
 
 ## Repostas entregues
 
@@ -22,4 +23,5 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Java Reflections
 - Stream
 - Testes Parte 1: Unitários e cobertura 
-- TEstes Parte 2: Test Driven Development (TDD) e Mock
+- Testes Parte 2: Test Driven Development (TDD) e Mock
+- 
