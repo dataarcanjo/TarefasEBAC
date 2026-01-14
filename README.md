@@ -25,3 +25,4 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Testes Parte 1: Unitários e cobertura 
 - Testes Parte 2: Test Driven Development (TDD) e Mock
 - Módulo 30: Tarefa
+- Módulo 32: Incompleto
