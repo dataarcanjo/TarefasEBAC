@@ -12,7 +12,7 @@ public class ProdutoTeste {
 	private IProdutoDao produtoDao;
 		
 	
-	public void ProdutoTest() {
+	public ProdutoTeste() {
 		produtoDao = new ProdutoDAO();
 	}
 		
