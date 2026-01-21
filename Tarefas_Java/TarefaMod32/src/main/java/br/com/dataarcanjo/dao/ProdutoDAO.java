@@ -2,8 +2,9 @@ package br.com.dataarcanjo.dao;
 
 import java.util.List;
 
+import javax.persistence.*;
 import br.com.dataarcanjo.domain.Produto;
-import jakarta.persistence.*;
+
 
 public class ProdutoDAO implements IProdutoDao {
 
