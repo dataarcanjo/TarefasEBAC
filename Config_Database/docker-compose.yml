@@ -21,3 +21,13 @@ services:
       PGADMIN_DEFAULT_PASSWORD: user
     ports:
       - "5050:80"
+
+  mongo:
+    container_name: mongo_container
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    ports:
+      - "27017:27017"
