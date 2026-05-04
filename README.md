@@ -5,7 +5,8 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 
 - Projeto 1: Página de cadastro de usuários (CRUD Swing);
 - Projeto 2: BackEnd de Database de usuários CRUD com implementação de Generics e testes automatizados;
-- Projeto 3: BackEnd integrado à database SQL (Feito por cima de uma estrutura já encaminhada)
+- Projeto 3: BackEnd integrado à database SQL (Feito por cima de uma estrutura prévia)
+- Projeto 4: Sistema de Cadastro integrado a banco de dados PostgreSQL, usando JPA.
 
 ## Repostas entregues
 
