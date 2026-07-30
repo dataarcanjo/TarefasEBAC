@@ -29,3 +29,4 @@ Esse diretório agora é dedicado a guardar tarefas do curso BackEnd da EBAC.
 - Modelagem de entidade
 - JPA Avançado
 - Multaplas DB
+- Maven
